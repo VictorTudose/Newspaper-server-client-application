@@ -1,6 +1,15 @@
 # Newspaper server-client application
 
-Implemented
+## Desciption
+Newspapare-like application
+
+The subscribers subscribe to an event
+
+The senders send data about an event
+
+The server store subscribers , what they are subscribed to , and unread articles(store and forward functionality)
+
+## Implemented
 * asynchronous IO using the select syscall
 * store and forward functionality
 
